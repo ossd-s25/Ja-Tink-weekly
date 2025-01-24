@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Jack! I'm a junior studying computer science and data science at NYU. This is my blog for Open Source Software Development.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm from Washington!
 
