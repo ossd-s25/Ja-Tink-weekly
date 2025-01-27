@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Jan 27   | https://en.wikipedia.org/wiki/Special:Contributions/JTinker25    | Wikipedia    |   Added category to an uncatagorized page (Caleb & John)    |
-|     |     |     |      |
+| Jan 27   | https://github.com/ossd-s25/AndreaTang123-weekly/issues/1    |  Peer's Blog   |  Reported broken links    |
 |     |     |     |      |
