@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Jan 27   | https://en.wikipedia.org/wiki/Special:Contributions/JTinker25    | Wikipedia    |   Added category to an uncatagorized page (Caleb & John)    |
 |     |     |     |      |
 |     |     |     |      |
