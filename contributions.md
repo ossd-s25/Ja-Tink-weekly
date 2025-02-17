@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | Feb 1 | [The Cooresponding OSM Changeset](https://www.openstreetmap.org/changeset/162026609) | OpenStreetMap | Removed a store that closed in 2017 |
 | Feb 1 | [The Cooresponding OSM Changeset](https://www.openstreetmap.org/changeset/162026696) | OpenStreetMap | Added a missing gym to the map |
 | Feb 14    |  [Link to the version of the article created by my edit](https://en.wikipedia.org/w/index.php?title=Epic_Mickey&oldid=1275738881)   | Wikipedia    | Reverted an edit that mistakenly removed true information from the article   |
+| Feb 16    |  [Link to pull request](https://github.com/ossd-s25/Team2-add-on-ScreenPet/pull/15)   | Peer's Browser Extension Project    | Suggested a new feature to one of the browser extension projects and submitted a pull request implementing it  |
