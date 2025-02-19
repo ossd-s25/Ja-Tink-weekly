@@ -33,3 +33,5 @@ Replace the first row with your own contribution.
 | Feb 14    |  [Article Snapshot](https://en.wikipedia.org/w/index.php?title=Epic_Mickey&oldid=1275738881)   | Wikipedia    | Reverted an edit that mistakenly removed true information from the article   |
 | Feb 16    |  [Pull Request](https://github.com/ossd-s25/Team2-add-on-ScreenPet/pull/15)   | Peer's Browser Extension Project    | Suggested a new feature to one of the browser extension projects and submitted a pull request implementing it  |
 | Feb 17    |  [GitHub Issue](https://github.com/ossd-s25/polinapianina-weekly/issues/1)   | Peer's Blog    | Reported an issue with images not displaying  |
+| Feb 19    |  [GitHub Issue](https://github.com/ossd-s25/avmvng-weekly/issues/1)   | Peer's Blog    | Reported a broken link  |
+| Feb 19    |  [Pull Request](https://github.com/ossd-s25/team-9-add-on/pull/2) | Peer's Browser Extension Project | Addressed a small issue reported by another student |
