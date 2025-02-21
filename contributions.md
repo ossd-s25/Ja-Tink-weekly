@@ -35,3 +35,4 @@ Replace the first row with your own contribution.
 | Feb 17    |  [GitHub Issue](https://github.com/ossd-s25/polinapianina-weekly/issues/1)   | Peer's Blog    | Reported an issue with images not displaying  |
 | Feb 19    |  [GitHub Issue](https://github.com/ossd-s25/avmvng-weekly/issues/1)   | Peer's Blog    | Reported a broken link  |
 | Feb 19    |  [Pull Request](https://github.com/ossd-s25/team-9-add-on/pull/2) | Peer's Browser Extension Project | Addressed a small issue reported by another student |
+| Feb 21    |  [GitHub Issue](https://github.com/joannakl/ossd/issues/141) | Class Website | Reported a markdown formatting issue on course website |
