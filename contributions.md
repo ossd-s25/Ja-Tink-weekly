@@ -37,3 +37,4 @@ Replace the first row with your own contribution.
 | Feb 19    |  [Pull Request](https://github.com/ossd-s25/team-9-add-on/pull/2) | Peer's Browser Extension Project | Submitted a fix for a small issue reported by another student |
 | Feb 21    |  [GitHub Issue](https://github.com/joannakl/ossd/issues/141) | Class Website | Reported a markdown formatting issue on course website |
 | Mar 13 | [Pull Request](https://github.com/mlfoundations/open_clip/pull/1050) | [OpenClip Project](https://github.com/mlfoundations/open_clip) | Made and issue and a PR (with a brief discussion) to fix deprecated PyTorch usage in README example |
+| Mar 29 | [Two Pull Requests](https://github.com/block/goose/pull/1924) [(second pr)](https://github.com/block/goose/pull/1925) | [Goose Project](https://github.com/block/goose) | Made two small fixed to documentation |
