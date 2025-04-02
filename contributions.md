@@ -39,3 +39,4 @@ Replace the first row with your own contribution.
 | Mar 13 | [Pull Request](https://github.com/mlfoundations/open_clip/pull/1050) | [OpenClip Project](https://github.com/mlfoundations/open_clip) | Made and issue and a PR (with a brief discussion) to fix deprecated PyTorch usage in README example |
 | Mar 29 | [Two Pull Requests](https://github.com/block/goose/pull/1924) [(second pr)](https://github.com/block/goose/pull/1925) | [Goose Project](https://github.com/block/goose) | Made two small fixed to documentation |
 | Mar 29 | [Article Snapshot](https://en.wikipedia.org/w/index.php?title=King_County_Superior_Court&oldid=1283029208) | Wikipedia | Fixed table formatting on King County Superior Court article |
+| Apr 2 | [Issue](https://github.com/issues/created?issue=shap%7Cshap%7C4048) [PR](https://github.com/shap/shap/pull/4049) | [SHAP](https://github.com/shap/shap) | Small style change |
