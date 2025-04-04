@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 | Mar 29 | [Article Snapshot](https://en.wikipedia.org/w/index.php?title=King_County_Superior_Court&oldid=1283029208) | Wikipedia | Fixed table formatting on King County Superior Court article |
 | Apr 2 | [Issue](https://github.com/issues/created?issue=shap%7Cshap%7C4048), [PR](https://github.com/shap/shap/pull/4049) | [SHAP](https://github.com/shap/shap) | Small style change |
 | Apr 2 | [PR](https://github.com/shap/shap/pull/4050) | [SHAP](https://github.com/shap/shap) | Refactored a plotting function the follow new project guidelines |
+| Apr 4 | [PR](https://github.com/shap/shap/pull/4053) | [SHAP](https://github.com/shap/shap) | Fixed a (surprisingly slippery!) bug related to SHAP value visualization |
