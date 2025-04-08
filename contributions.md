@@ -42,3 +42,4 @@ Replace the first row with your own contribution.
 | Apr 2 | [Issue](https://github.com/issues/created?issue=shap%7Cshap%7C4048), [PR](https://github.com/shap/shap/pull/4049) | [SHAP](https://github.com/shap/shap) | Small style change |
 | Apr 2 | [PR](https://github.com/shap/shap/pull/4050) | [SHAP](https://github.com/shap/shap) | Refactored a plotting function the follow new project guidelines |
 | Apr 4 | [PR](https://github.com/shap/shap/pull/4053) | [SHAP](https://github.com/shap/shap) | Fixed a (surprisingly slippery!) bug related to SHAP value visualization |
+| Apr 7 | [PR](https://github.com/shap/shap/pull/4056) | [SHAP](https://github.com/shap/shap) | Did a chore that was reported a while ago. If maintainers like what I did I plan to do similar fixes around the codebase. |
