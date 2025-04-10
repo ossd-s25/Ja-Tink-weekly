@@ -43,3 +43,5 @@ Replace the first row with your own contribution.
 | Apr 2 | [PR](https://github.com/shap/shap/pull/4050) | [SHAP](https://github.com/shap/shap) | Refactored a plotting function the follow new project guidelines |
 | Apr 4 | [PR](https://github.com/shap/shap/pull/4053) | [SHAP](https://github.com/shap/shap) | Fixed a (surprisingly slippery!) bug related to SHAP value visualization |
 | Apr 7 | [PR](https://github.com/shap/shap/pull/4056) | [SHAP](https://github.com/shap/shap) | Did a chore that was reported a while ago. If maintainers like what I did I plan to do similar fixes around the codebase. |
+| Apr 10 | [Issue](https://github.com/DataResponsibly/ShaRP/issues/62); [PR](https://github.com/DataResponsibly/ShaRP/pull/63) a new feature | [ShaRP](https://github.com/DataResponsibly/ShaRP) | Requested and implemented a new feature in the ShaRP project |
+|Apr 10 | [Issue](https://github.com/DataResponsibly/ShaRP/issues/64) | [ShaRP](https://github.com/DataResponsibly/ShaRP) | Reported a broken link to contributing guidelines |
